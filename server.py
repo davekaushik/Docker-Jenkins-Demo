@@ -1,7 +1,7 @@
 from flask import Flask
 
 PORT = 8000
-MESSAGE = "Hello All, this is DevOps Demo\n"
+MESSAGE = "Hello All, This indicate that project has successfully accomplished\n"
 
 app = Flask(__name__)
 
